@@ -1,6 +1,6 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-Main developer of [SPSCloud](https://www.spscloud.io) | eCommerce | Shipping | Loan | OpenCV
+Main developer of [SPSCloud](https://www.spscloud.io) | Front-End | Back-End | WEB | Mobile | eCommerce | Shipping | CRM | OpenCV
 
 Talking about Personal Stuffs:
 
