@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello 👋 and welcome 🎉 to my profile. 
 
-<!--
-**devdreamsolution/devdreamsolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Main developer of [SPSCloud](https://www.spscloud.io) | eCommerce | Shipping | Loan | OpenCV
 
-Here are some ideas to get you started:
+Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Freelancer](https://freelancer.com), [Workana](https://workana.com) 
+- 🌱 I’m currently learning AR
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: q3construction1@gmail.com
+
+**Languages and Tools:**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&show_icons=true&hide_border=true)
