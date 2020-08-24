@@ -1,13 +1,12 @@
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-Main developer of [SPSCloud](https://www.spscloud.io) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
+Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
 
 Talking about Personal Stuffs:
 
-- 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Freelancer](https://freelancer.com), [Workana](https://workana.com) 
-- 🌱 I’m currently learning AR
+- 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Guru](https://guru.com), [Workana](https://workana.com) 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: q3construction1@gmail.com
+- 📫 How to reach me: kcaribou0428@gmail.com
 
 ### Skills and Tools:
 
@@ -36,4 +35,4 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=devdreamsolution&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&hide_border=true)
