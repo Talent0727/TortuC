@@ -35,6 +35,6 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast&include_all_commits=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact)
