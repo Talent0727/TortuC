@@ -42,6 +42,3 @@ Talking about Personal Stuffs:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact)
-
-Use [show_owner](#customization) variable to include the repo's owner username
-
