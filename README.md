@@ -12,6 +12,8 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kcaribou0428@gmail.com
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -21,8 +23,6 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
