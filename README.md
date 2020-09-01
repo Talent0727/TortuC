@@ -12,7 +12,7 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kcaribou0428@gmail.com
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### Skills and Tools:
 
