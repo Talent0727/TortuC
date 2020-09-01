@@ -1,9 +1,9 @@
 <p align="center">
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+</p>
 
 ## Hello 👋 and welcome 🎉 to my profile. 
 
-</p>
 Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
 
 Talking about Personal Stuffs:
