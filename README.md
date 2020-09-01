@@ -38,4 +38,4 @@ Talking about Personal Stuffs:
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/langs/?username=kcaribou&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact)
