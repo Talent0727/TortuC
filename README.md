@@ -41,4 +41,3 @@ Talking about Personal Stuffs:
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kcaribou&repo=github-readme-stats&show_owner=true)](https://github.com/kcaribou/github-readme-stats)
