@@ -36,4 +36,6 @@ Talking about Personal Stuffs:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact)
