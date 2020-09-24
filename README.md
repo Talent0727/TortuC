@@ -2,7 +2,6 @@
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 
-<!-- thropy -->
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark"/>
 </p>
