@@ -5,6 +5,10 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark"/>
 </p>
+## Welcome 🎉 to my profile. 
+
+Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
+
 <!-- dancy gifs -->
 <p align="center">
 <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="25" height="25"/> 
@@ -23,9 +27,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
-## Welcome 🎉 to my profile. 
-
-Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
 
 Talking about Personal Stuffs:
 
