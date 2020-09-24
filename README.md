@@ -4,15 +4,8 @@
 
 <!-- thropy -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou1&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark"/>
 </p>
-
-<!-- status codes -->
-<a align="center" href="https://arshiamidos.github.io">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
-    </p>
-</a>
 
 ## Welcome 🎉 to my profile. 
 
@@ -24,7 +17,9 @@ Talking about Personal Stuffs:
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: kcaribou0428@gmail.com
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=kcaribou&include_all_commits=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![My github stats](<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
+    </p>)
 
 ### Skills and Tools:
 
