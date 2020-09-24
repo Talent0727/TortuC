@@ -5,7 +5,7 @@
 <!-- thropy -->
 <a href="https://arshiamidos.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark"/>
     </p>
 </a>
 
