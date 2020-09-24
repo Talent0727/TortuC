@@ -4,7 +4,7 @@
 
 <!-- thropy -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou1&column=7&theme=onedark"/>
 </p>
 
 <!-- status codes -->
