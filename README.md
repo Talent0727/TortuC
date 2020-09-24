@@ -5,9 +5,21 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&column=7&theme=onedark"/>
 </p>
+
 ## Welcome 🎉 to my profile. 
 
 Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | WEB | Mobile | API | B2B | WebRTC | eCommerce | Shipping | CRM | OpenCV
+
+Talking about Personal Stuffs:
+
+- 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Guru](https://guru.com), [Workana](https://workana.com) 
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: kcaribou0428@gmail.com
+
+My github stats:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
+</p>
 
 <!-- dancy gifs -->
 <p align="center">
@@ -26,17 +38,6 @@ Main developer of [Scouting](https://scoutinglab.pro/) | Front-End | Back-End | 
 <img src="https://emojis.slackmojis.com/emojis/images/1450319445/45/goomba.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif" width="25" height="25"/> 
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
-</p>
-
-Talking about Personal Stuffs:
-
-- 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Guru](https://guru.com), [Workana](https://workana.com) 
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: kcaribou0428@gmail.com
-
-My github stats:
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
 </p>
 
 ### Skills and Tools:
