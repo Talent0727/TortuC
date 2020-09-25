@@ -36,7 +36,7 @@ Talking about Personal Stuffs:
 
 My github stats:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight&" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=kcaribou&show_icons=true&theme=tokyonight&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
 </p>
 
 ### Skills and Tools:
