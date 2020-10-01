@@ -32,4 +32,4 @@ Talking about Personal Stuffs:
 
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=tortu-ch&theme=highcontrast&include_all_commits=true" alt="my github stats" height="170"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortu-ch&layout=compact&theme=highcontrast&include_all_commits=true" alt="languages" height="170"></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tortu-ch&theme=highcontrast&include_all_commits=true" alt="my github stats" width="350" height="170"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortu-ch&layout=compact&theme=highcontrast&include_all_commits=true" alt="languages" height="170"></p>
