@@ -34,4 +34,4 @@ Talking about Personal Stuffs:
 
 My github stats:
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=tortu-ch&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortu-ch&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" alt="languages" height="165"></p>
+    <img src="https://github-readme-stats.vercel.app/api?username=tortu-ch&theme=highcontrast&include_all_commits=true" alt="my github stats" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortu-ch&langs_count=10&layout=compact&theme=highcontrast&include_all_commits=true" alt="languages" height="165"></p>
