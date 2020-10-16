@@ -5,7 +5,7 @@
 Talking about Personal Stuffs:
 - Main developer in [Spaero](http://spaero.co.uk) and [NooWait](https://apps.apple.com/us/app/id1523989282)
 - 🔭 I'm currently working on outsourcing like [Upwork](https://upwork.com), [Popleperhour](https://Peopleperhour.com), [Workana](https://workana.com) 
-- 💬 Ask me anything, I am happy to help
+- 💬 Ask me anything, you are welcome anytime.
 - 📫 How to reach me: tortuc611@gmail.com
 
 
