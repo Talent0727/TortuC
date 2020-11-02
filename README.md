@@ -4,6 +4,7 @@
 
 Talking about Personal Stuffs:
 
+My nick name is Tortu.
 To create powerful solution rapidly, I'm focusing on the architecture of the app, clean code, product design, continuous integration, task prioritization, automatic deployment. 
 Always I'm pursuing a perfect result, clean code, and on-time delivery as my goal and embrace new tech and everyone’s opinion is welcome and expected anytime.
 - Main developer in [Spaero](http://spaero.co.uk) and [NooWait](https://apps.apple.com/us/app/id1523989282)
