@@ -1,4 +1,4 @@
-## 👋 welcome🎉 to my presentation.
+## 👋 welcome
 
 
 
