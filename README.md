@@ -8,7 +8,6 @@ My nick name is Tortu.<br>
 To create powerful solution rapidly, I'm focusing on the app architecture, clean code, product design, continuous integration, task prioritization, automatic deployment. 
 Always I'm pursuing a perfect result, best quality, and on-time delivery as my goal and embrace new tech and everyone’s opinion is welcome and expected anytime.
 - Main developer in [Spaero](http://spaero.co.uk) and [NooWait](https://apps.apple.com/us/app/id1523989282)
-- 💬 Ask me anything, you are welcome anytime.
 - 📫 How to reach me: [Skype](https://join.skype.com/invite/eLjxQsvz91h5), [Email](mailto:tortuc611@gmail.com)
 
 
