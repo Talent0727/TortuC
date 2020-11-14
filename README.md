@@ -4,11 +4,22 @@
 
 Talking about Personal Stuffs:
 
-My nick name is Tortu.<br>
-To create powerful solution rapidly, I'm focusing on the app architecture, clean code, product design, continuous integration, task prioritization, automatic deployment. 
-Always I'm pursuing a perfect result, best quality, and on-time delivery as my goal and embrace new tech and everyone’s opinion is welcome and expected anytime.
-- Main developer in [Spaero](http://spaero.co.uk) and [NooWait](https://apps.apple.com/us/app/id1523989282)
-- 📫 How to reach me: [Skype](https://join.skype.com/invite/eLjxQsvz91h5), [Email](mailto:tortuc611@gmail.com)
+- NickName: Tortu ( web, mobile developer ).<br>
+- Main developer in [Spaero B2B MarketPlace](http://spaero.co.uk) and [NooWait IOS App](https://apps.apple.com/us/app/id1523989282)
+
+Articulate and professional communication skills, including formal presentations and technical documentation.<br>
+Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
+As a competent and experienced developer with a BBA degree, <br>
+I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
+Productive in both team-based and self-managed projects: dedicated to maintaining up-to-date industry knowledge and IT skills.<br>
+Always trying to embrace new tech and everyone's opinion is welcome and expected.
+
+- Perfect result | Best Quality |  On-time Delivery 
+- App architecture | clean code | product design | continuous integration | task prioritization | automatic deployment
+
+
+If you have any questions, you are welcome anytime.
+
 
 
 ### Skills and Tools:
