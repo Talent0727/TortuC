@@ -15,7 +15,7 @@ Productive in both team-based and self-managed projects: dedicated to maintainin
 Always trying to embrace new tech and everyone's opinion is welcome and expected.
 
 
-####My mission
+##### My mission
 - Perfect result | Best Quality |  On-time Delivery 
 - app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment
 
