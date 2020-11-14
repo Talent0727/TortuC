@@ -6,8 +6,7 @@ Talking about Personal Stuffs:
 
 - NickName: Tortu ( web, mobile developer ).<br>
 - Main developer in [Spaero B2B MarketPlace](http://spaero.co.uk) and [NooWait IOS App](https://apps.apple.com/us/app/id1523989282)
-
-Articulate and professional communication skills, including formal presentations and technical documentation.<br>
+- Articulate and professional communication skills, including formal presentations and technical documentation.<br>
 Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
 As a competent and experienced developer with a BBA degree, <br>
 I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
@@ -44,7 +43,6 @@ If you have any questions, you are welcome anytime.
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <br>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
