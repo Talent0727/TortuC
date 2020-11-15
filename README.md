@@ -15,8 +15,8 @@ Always trying to embrace new tech and everyone's opinion is welcome and expected
 
 
 ##### My mission
-- Perfect result | Best Quality |  On-time Delivery 
-- app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment
+- [ Perfect result | Best Quality |  On-time Delivery ] 
+- [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
 
 
 If you have any questions, you are welcome anytime.
