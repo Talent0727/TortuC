@@ -11,7 +11,7 @@ Also, one of my best virtues is setting a fair price for our project and adherin
 As a competent and experienced developer with a BBA degree, <br>
 I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
 Productive in both team-based and self-managed projects: dedicated to maintaining up-to-date industry knowledge and IT skills.<br>
-Always trying to embrace new tech and everyone's opinion is welcome and expected.<br>
+Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
 [ B2B | B2C | MarketPlace | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter ]
 
 ##### My mission
