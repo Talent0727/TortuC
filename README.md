@@ -11,8 +11,8 @@ Also, one of my best virtues is setting a fair price for our project and adherin
 As a competent and experienced developer with a BBA degree, <br>
 I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
 Productive in both team-based and self-managed projects: dedicated to maintaining up-to-date industry knowledge and IT skills.<br>
-Always trying to embrace new tech and everyone's opinion is welcome and expected.
-
+Always trying to embrace new tech and everyone's opinion is welcome and expected.<br>
+[ B2B | B2C | MarketPlace | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter ]
 
 ##### My mission
 - [ Perfect result | Best Quality |  On-time Delivery ] 
@@ -24,7 +24,7 @@ If you have any questions, you are welcome anytime.
 
 
 ### Skills and Tools:
-[ B2B | B2C | MarketPlace | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter ]<br>
+
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
