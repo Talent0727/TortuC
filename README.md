@@ -5,7 +5,7 @@
 Talking about Personal Stuffs:
 
 - NickName: Tortu ( web, mobile developer ).<br>
-- Main developer in [Spaero B2B MarketPlace](http://spaero.co.uk) and [NooWait IOS App](https://apps.apple.com/us/app/id1523989282)
+- Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
 - Articulate and professional communication skills, including formal presentations and technical documentation.<br>
 Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
 As a competent and experienced developer with a BBA degree, <br>
