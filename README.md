@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
 - Articulate and professional communication skills, including formal presentations and technical documentation.<br>
 Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
-As a competent and experienced developer with a BBA degree, <br>
+As a competent and experienced developer with a Master's degree, <br>
 I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
 Productive in both team-based and self-managed projects: dedicated to maintaining up-to-date industry knowledge and IT skills.<br>
 Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
