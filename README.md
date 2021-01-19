@@ -24,7 +24,7 @@ Always trying to embrace new tech and everyone's opinion is welcome and expected
 If you have any questions, you are welcome anytime.
 
 
-
+##
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
