@@ -17,7 +17,7 @@ Always trying to embrace new tech and everyone's opinion is welcome and expected
 [ B2B | B2C | MarketPlace | SAAS | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]
 
 ##
-#### My mission
+##### My mission
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
 - [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
 
@@ -26,7 +26,7 @@ If you have any questions, you are welcome anytime.
 
 
 ##
-#### My skills
+##### My skills
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
