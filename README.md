@@ -14,9 +14,9 @@ As a competent and experienced developer with a Master's degree, <br>
 I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
 Productive in both team-based and self-managed projects: dedicated to maintaining up-to-date industry knowledge and IT skills.<br>
 Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
+
+[ B2B | B2C | MarketPlace | SAAS | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]<br><br>
 If you have any questions, you are welcome anytime.
-<br><br>
-[ B2B | B2C | MarketPlace | SAAS | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]
 
 ##
 ##### My mission
