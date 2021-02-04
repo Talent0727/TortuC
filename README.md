@@ -11,7 +11,7 @@ Ukrainian National Institute of Technology Igor Sikorsky Kyiv Institute of Scien
 - Articulate and professional communication skills, including formal presentations and technical documentation.<br>
 Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
 As a competent and experienced developer with a Master's degree, <br>
-I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools.<br>
+I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools in web and mobile development..<br>
 Productive in both team-based and self-managed projects: dedicated to maintaining up-to-date industry knowledge and IT skills.<br>
 Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
 
