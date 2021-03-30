@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 - Education: Master's Degree.<br>
 Ukrainian National Institute of Technology Igor Sikorsky Kyiv Institute of Science and Technology', Ukraine
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
-- <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
+<img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
 - Articulate and professional communication skills, including formal presentations and technical documentation.<br>
 Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
 As a competent and experienced developer with a Master's degree, <br>
