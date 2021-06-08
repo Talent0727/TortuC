@@ -5,7 +5,7 @@
 Talking about Personal Stuffs:
 
 - NickName: Tortu ( web, mobile developer ).<br>
-- Education: M.C.A Degree.<br>
+- Education: M.C.A degree.<br>
 Ukrainian National Institute of Technology Igor Sikorsky Kyiv Institute of Science and Technology', Ukraine
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
 <img align="right" width="250" src="https://github.com/TortuC/TortuC/blob/master/img/devops.png" />
