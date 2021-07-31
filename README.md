@@ -22,8 +22,8 @@ If you have any questions, you are welcome anytime.
 - **[ Perfect result | Best Quality |  On-time Delivery ]**
 - [ app architecture | clean code | product design | continuous integration | task prioritization | automatic deployment ]
 
-<details>
-   <summary>:zap: My skills</summary>
+##
+##### My skills
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -68,7 +68,7 @@ If you have any questions, you are welcome anytime.
 </details>
 
 ##
-##### My mission
+##### GitHub status
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
