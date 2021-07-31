@@ -65,7 +65,7 @@ If you have any questions, you are welcome anytime.
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
-<details>
+</details>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true" height="165">
 </p>
