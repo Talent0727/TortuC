@@ -14,7 +14,7 @@ I have a rich educational background in programming and have more than 8 years o
 Productive in both team-based and self-managed projects: dedicated to keeping up-to-date industry knowledge and IT skills.<br>
 Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
 
-[ B2B | B2C | MarketPlace | SAAS | ERP | CRM| React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]<br><br>
+[ B2B | B2C | MarketPlace | SAAS | ERP | CRM | React | Vue | Angular | Node | PHP | Python | IOS | Android | Flutter | Xamarin ]<br><br>
 If you have any questions, you are welcome anytime.
 
 ##
