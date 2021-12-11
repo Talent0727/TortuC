@@ -1,5 +1,5 @@
-## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> Let your dreams come true !
-
+## <img height="60" width="60" src="https://github.com/TortuC/TortuC/blob/master/img/hello.gif" /> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Let+your+dreams+come +true+!;7%2B+years+of+hands-on+experience+in+programming;Blockchain+developer;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
 
 
 Talking about Personal Stuffs:
