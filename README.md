@@ -3,17 +3,17 @@
 
 Talking about Personal Stuffs:
 
-- NickName: Tortu ( full-stack web,mobile developer ).<br>
+- NickName: Tortu ( Full-Stack Developer | Web & Mobile ).<br>
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- Articulate and professional communication skills, including formal presentations and technical documentation.<br>
-Also, one of my best virtues is setting a fair price for our project and adhering to your timeline. <br>
-As a competent and experienced developer, <br>
-I have a rich educational background in programming and have more than 8 years of experience using cutting-edge development tools in web and mobile development.<br>
-Productive in both team-based and self-managed projects: dedicated to keeping up-to-date industry knowledge and IT skills.<br>
-Always trying to embrace new tech and everyone's opinion is welcome and expected. <br><br>
+- My specialization: make Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma), use several APIs such as social network API (Google, Facebook, Twitter), implement video/audio/text-chat support, use REST API of any service, use Open-source data query such as GraphQL, use geolocation and Google Maps/ OpenStreetMap, use relation like MySQL and non-relation like MongoDB, implementing component/ page builder using GrapesJs package.
+I pride myself on being extremely professional and aim to always deliver a job well before a deadline. I'm extremely proud of my personable yet professional manner and possess excellent communication skills.
+I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
 
 If you have any questions, you are welcome anytime.
+##
+##### My working style
+- **[ Componentization | Modular | Reusable | Efficient ]**
 
 ##
 ##### My mission
