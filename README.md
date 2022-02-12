@@ -68,7 +68,7 @@ If you have any questions, you are welcome anytime.
 ##
 ##### GitHub status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165">
 </p>
 <div>
     <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" />
