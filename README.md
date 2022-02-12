@@ -64,7 +64,7 @@ If you have any questions, you are welcome anytime.
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 <br><br>
 </details>
-
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=tortuc.tortuc" />
 ##
 ##### GitHub status
 <p align="center">
