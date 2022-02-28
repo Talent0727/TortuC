@@ -6,7 +6,7 @@ Talking about Personal Stuffs:
 - NickName: Tortu ( Full Stack Developer | Web & Mobile ).<br>
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- My specialization: make Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma), use several APIs such as social network API (Google, Facebook, Twitter), implement video/audio/text-chat support, use REST API of any service, use Open-source data query such as GraphQL, use geolocation and Google Maps/ OpenStreetMap, use relation like MySQL and non-relation like MongoDB, implementing component/ page builder using GrapesJs package.
+- My specialization: make Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma), use several APIs such as social network API (Google, Facebook, Twitter), implement video/audio/text-chat support, use REST API of any service such as Headless CMS( Contentful ), use geolocation and Google Maps/ OpenStreetMap, use relation like MySQL and non-relation like MongoDB, implementing component/ page builder using GrapesJs, implementing Online Store using Shopify API.
 I pride myself on being extremely professional and aim to always deliver a job well before a deadline. I'm extremely proud of my personable yet professional manner and possess excellent communication skills.
 I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
 
