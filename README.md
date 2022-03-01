@@ -6,7 +6,7 @@ Talking about Personal Stuffs:
 - NickName: Tortu ( Full Stack Developer | Web & Mobile ).<br>
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- My specialization: make Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma), use several APIs such as social network API (Google, Facebook, Twitter), implement video/audio/text-chat support, use REST API of any service such as Headless CMS( Contentful ), use geolocation and Google Maps/ OpenStreetMap, use relation like MySQL and non-relation like MongoDB, implementing component/ page builder using GrapesJs, implementing Online Store using Shopify API.
+- My specialization: make Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma), use several Rest/Soap APIs such as Headless CMS( Contentful ), social network API (Google, Facebook, Twitter), implement video/audio/text-chat support, use geolocation and Google Maps/ OpenStreetMap, use relation like MySQL and non-relation like MongoDB, implementing component/ page builder using GrapesJs, implementing Online Store using Shopify API.
 I pride myself on being extremely professional and aim to always deliver a job well before a deadline. I'm extremely proud of my personable yet professional manner and possess excellent communication skills.
 I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
 
@@ -68,6 +68,6 @@ If you have any questions, you are welcome anytime.
 ##
 ##### GitHub status
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tortuc&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
+    <img src="https://github-readme-stats.vercel.app/api?username=tortu&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuc&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
 </p>
 <img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
