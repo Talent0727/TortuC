@@ -6,7 +6,7 @@ Talking about Personal Stuffs:
 - NickName: Tortu ( Full Stack Developer | Web & Mobile ).<br>
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- My specialization: 
+- My specialization:<br> 
 ✔ making Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma) <br>
 ✔ using OpenSea and Moralis NFT API for DApp, Web3 App, and NFT marketplace development<br> 
 ✔ using several Rest/Soap APIs such as Headless CMS( Contentful ), social network API (Google, Facebook, Twitter)<br>
