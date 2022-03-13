@@ -14,7 +14,7 @@ Talking about Personal Stuffs:
 ✔ using several Rest/Soap APIs such as Headless CMS( Contentful ), social network API (Google, Facebook, Twitter)<br>
 ✔ using geolocation and Google Maps/ OpenStreetMap<br>
 ✔ using relation DB like MySQL and non-relation DB like MongoDB<br>
-✔ implementing video/audio/text-chat support<br><br>
+✔ using Firebase, Twilio for video/audio/text-chat support<br><br>
 
 I pride myself on being extremely professional and aim to always deliver a job well before a deadline. I'm extremely proud of my personable yet professional manner and possess excellent communication skills.
 I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
