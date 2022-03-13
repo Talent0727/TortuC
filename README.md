@@ -10,9 +10,9 @@ Talking about Personal Stuffs:
 ✔ making Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma) <br>
 ✔ using OpenSea and Moralis NFT API for DApp, Web3 App, and NFT marketplace development<br> 
 ✔ using several Rest/Soap APIs such as Headless CMS( Contentful ), social network API (Google, Facebook, Twitter)<br>
-✔ implementing video/audio/text-chat support <br>
 ✔ using geolocation and Google Maps/ OpenStreetMap <br>
 ✔ using relation DB like MySQL and non-relation DB like MongoDB <br>
+✔ implementing video/audio/text-chat support <br>
 ✔ implementing component/ page builder using GrapesJs <br>
 ✔ implementing Online Store using Shopify API <br><br>
 
