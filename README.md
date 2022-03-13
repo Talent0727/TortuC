@@ -13,7 +13,7 @@ Talking about Personal Stuffs:
 ✔ implementing video/audio/text-chat support, use geolocation and Google Maps/ OpenStreetMap <br>
 ✔ using relation DB like MySQL and non-relation DB like MongoDB <br>
 ✔ implementing component/ page builder using GrapesJs <br>
-✔ implementing Online Store using Shopify API <br>
+✔ implementing Online Store using Shopify API <br><br>
 
 I pride myself on being extremely professional and aim to always deliver a job well before a deadline. I'm extremely proud of my personable yet professional manner and possess excellent communication skills.
 I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
