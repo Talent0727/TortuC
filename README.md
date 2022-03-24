@@ -4,7 +4,8 @@
 Talking about Personal Stuffs:
 
 - NickName: Tortu ( Full Stack Developer | Web & Mobile ).<br>
-- Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)
+- Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)<br>
+- Over 8 years of extensive experience in Web, Mobile Development 
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 - My specialization:<br> 
 ✔ making Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma)<br>
