@@ -21,6 +21,7 @@ I pride myself on being extremely professional and aim to always deliver a job w
 I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
 
 If you have any questions, you are welcome anytime.
+
 ##
 ##### My working style
 - **[ Componentization | Modular | Reusable | Efficient ]**
