@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- NickName: Tortu ( Senior Full Stack Developer | Web & Mobile ).<br>
+- NickName: Tortu ( Senior Angular/ NgRx/ RxJS Developer | Web & Mobile ).<br>
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)<br>
 - Over 8 years of extensive experience in Web, Mobile Development 
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
@@ -17,7 +17,14 @@ Talking about Personal Stuffs:
 ✔ using relation DB like MySQL and non-relation DB like MongoDB<br>
 ✔ using Firebase, Twilio for video/audio/text-chat support<br><br>
 
-I pride myself on being extremely professional and aim to always deliver a job well before a deadline. I'm extremely proud of my personable yet professional manner and possess excellent communication skills.
+Over 6 years of experience working in a corporate environment as a Angular developer.<br>
+Strong technical skills in complex website development including web-based applications.<br>
+Experience in system analysis, design, workflow architecture, development, testing and maintenance of web
+based applications.<br>
+Experience developing highly interactive web applications utilizing JavaScript, HTML5, CSS, JSON, Bootstrap/
+TailwindCSS, Angular 10 ~ 14, and integrating GraphQL/ Reactful/ Soap APIs.<br>
+Experience on working with Custom Directives, Controllers, Services, pipes of Angular.<br>
+Worked extensively in Agile Development process.<br>
 I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
 
 If you have any questions, you are welcome anytime.
