@@ -7,15 +7,6 @@ Talking about Personal Stuffs:
 - Main developer in [Spaero ( Airline Industry B2B MarketPlace )](http://spaero.co.uk) and [NooWait ( IOS App )](https://apps.apple.com/us/app/id1523989282)<br>
 - Over 8 years of extensive experience in Web, Mobile Development 
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
-- My specialization:<br> 
-✔ making Web, Mobile applications from design files (Mockup, XD, Photoshop, Figma)<br>
-✔ using OpenSea and Moralis NFT API for DApp, Web3 App, and NFT marketplace development<br>
-✔ using GrapesJs for component/ page builder development<br>
-✔ using Shopify SDK/ API for Online Store development<br>
-✔ using several Rest/Soap APIs such as Headless CMS( Contentful ), social network API (Google, Facebook, Twitter)<br>
-✔ using geolocation and Google Maps/ OpenStreetMap<br>
-✔ using relation DB like MySQL and non-relation DB like MongoDB<br>
-✔ using Firebase, Twilio for video/audio/text-chat support<br><br>
 
 Over 6 years of experience working in a corporate environment as a Angular developer.<br>
 Strong technical skills in complex website development including web-based applications.<br>
@@ -25,9 +16,20 @@ Experience developing highly interactive web applications utilizing JavaScript, 
 TailwindCSS, Angular 10 ~ 14, and integrating GraphQL/ Reactful/ Soap APIs.<br>
 Experience on working with Custom Directives, Controllers, Services, pipes of Angular.<br>
 Worked extensively in Agile Development process.<br>
-I look forward to working with you and helping you stream your tasks to improve your business productivity. Thank you. <br><br>
 
-If you have any questions, you are welcome anytime.
+My primary responsibilities include: <br>
+- Developing new features and functionality in Angular/ IONIC applications using TypeScript, HTML, and SCSS. <br>
+- Building reusable and scalable components and modules that can be used across multiple projects. <br>
+- Optimizing the performance of Angular applications by using tools like webpack and optimizing the size of the code bundle. <br>
+- Writing automated tests to ensure the quality and reliability of the codebase. <br>
+- Collaborating with other developers, designers, and product managers to deliver high-quality software on time and on budget. <br>
+- Staying up-to-date with the latest web development trends and technologies to ensure that the Angular application stays current and competitive. <br>
+
+I have a strong understanding of web development principles, be proficient in TypeScript, HTML, and CSS, and have a good understanding of software design patterns and principles. 
+I have experience with tools like Angular CLI, webpack, and testing frameworks like Jasmine, Karma, and Cypress. 
+Additionally, I have strong communication and collaboration skills and be comfortable working in an agile development environment.
+
+If you are looking for a skilled and committed senior Angular/ IONIC developer, then look no further. Let us do great things together!
 
 ##
 ##### My working style
