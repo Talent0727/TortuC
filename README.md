@@ -8,14 +8,12 @@ Talking about Personal Stuffs:
 - Over 8 years of extensive experience in Web, Mobile Development 
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 
-Over 6 years of experience working in a corporate environment as a Angular developer.<br>
-Strong technical skills in complex website development including web-based applications.<br>
-Experience in system analysis, design, workflow architecture, development, testing and maintenance of web
-based applications.<br>
-Experience developing highly interactive web applications utilizing JavaScript, HTML5, CSS, JSON, Bootstrap/
-TailwindCSS, Angular 10 ~ 14, and integrating GraphQL/ Reactful/ Soap APIs.<br>
-Experience on working with Custom Directives, Controllers, Services, pipes of Angular.<br>
-Worked extensively in Agile Development process.<br>
+- Over 6 years of experience working in a corporate environment as a Angular developer.<br>
+- Strong technical skills in complex website development including web-based applications.<br>
+- Experience in system analysis, design, workflow architecture, development, testing and maintenance of web based applications.<br>
+- Experience developing highly interactive web applications utilizing JavaScript, HTML5, CSS, JSON, Bootstrap/ TailwindCSS, Angular 10 ~ 14, and integrating GraphQL/ Reactful/ Soap APIs.<br>
+- Experience on working with Custom Directives, Controllers, Services, pipes of Angular.<br>
+- Worked extensively in Agile Development process.<br>
 
 ##
 ##### My primary responsibilities include: <br>
