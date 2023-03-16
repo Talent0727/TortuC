@@ -17,7 +17,8 @@ TailwindCSS, Angular 10 ~ 14, and integrating GraphQL/ Reactful/ Soap APIs.<br>
 Experience on working with Custom Directives, Controllers, Services, pipes of Angular.<br>
 Worked extensively in Agile Development process.<br>
 
-My primary responsibilities include: <br>
+##
+##### My primary responsibilities include: <br>
 - Developing new features and functionality in Angular/ IONIC applications using TypeScript, HTML, and SCSS. <br>
 - Building reusable and scalable components and modules that can be used across multiple projects. <br>
 - Optimizing the performance of Angular applications by using tools like webpack and optimizing the size of the code bundle. <br>
@@ -25,7 +26,7 @@ My primary responsibilities include: <br>
 - Collaborating with other developers, designers, and product managers to deliver high-quality software on time and on budget. <br>
 - Staying up-to-date with the latest web development trends and technologies to ensure that the Angular application stays current and competitive. <br>
 
-I have a strong understanding of web development principles, be proficient in TypeScript, HTML, and CSS, and have a good understanding of software design patterns and principles. 
+I have a strong understanding of web development principles, be proficient in TypeScript, HTML, and sCSS, and have a good understanding of software design patterns and principles. 
 I have experience with tools like Angular CLI, webpack, and testing frameworks like Jasmine, Karma, and Cypress. 
 Additionally, I have strong communication and collaboration skills and be comfortable working in an agile development environment.
 
