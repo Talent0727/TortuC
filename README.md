@@ -8,7 +8,7 @@ Talking about Personal Stuffs:
 <img align="right" width="350" src="https://github.com/TortuC/TortuC/blob/master/img/image03.gif" />
 
 - Over 6 years of experience working in a corporate environment as a Angular/ IONIC developer.<br>
-- •Strong technical skills in complex web, mobile app development using Angular and IONIC. <br>
+- Strong technical skills in complex web, mobile app development using Angular and IONIC. <br>
 - Experience in system analysis, design, workflow architecture, development, testing and maintenance of web based applications.<br>
 - Experience developing highly interactive web applications utilizing JavaScript, HTML5, CSS, JSON, Bootstrap/ TailwindCSS, Angular 10 ~ 14, and integrating GraphQL/ Reactful/ Soap APIs.<br>
 - Experience on working with Custom Directives, Controllers, Services, pipes of Angular.<br>
