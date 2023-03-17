@@ -21,9 +21,9 @@ Talking about Personal Stuffs:
 - Optimizing the performance of Angular applications by using tools like webpack and optimizing the size of the code bundle. <br>
 - Writing automated tests to ensure the quality and reliability of the codebase. <br>
 - Collaborating with other developers, designers, and product managers to deliver high-quality software on time and on budget. <br>
-- Staying up-to-date with the latest web development trends and technologies to ensure that the Angular application stays current and competitive. <br>
+- Staying up-to-date with the latest web and mobile development trends and technologies to ensure that the Angular/ Ionic application stays current and competitive. <br>
 
-I have a strong understanding of web development principles, be proficient in TypeScript, HTML, and sCSS, and have a good understanding of software design patterns and principles. 
+I have a strong understanding of web and mobile development principles, be proficient in TypeScript, HTML, and sCSS, and have a good understanding of software design patterns and principles. 
 I have experience with tools like Angular CLI, webpack, and testing frameworks like Jasmine, Karma, and Cypress. 
 Additionally, I have strong communication and collaboration skills and be comfortable working in an agile development environment.
 
