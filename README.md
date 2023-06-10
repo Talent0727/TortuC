@@ -14,8 +14,6 @@ Talking about Personal Stuffs:
 - Experience on working with Custom Directives, Controllers, Services, pipes of Angular.<br>
 - Worked extensively in Agile Development process.<br>
 
-
-
 ##
 ##### My primary responsibilities include: <br>
 - Developing new features and functionality in Angular/ IONIC applications using TypeScript, HTML, and SCSS. <br>
