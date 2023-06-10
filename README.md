@@ -17,7 +17,6 @@ Talking about Personal Stuffs:
 ##
 
 
-
 ##### My primary responsibilities include: <br>
 - Developing new features and functionality in Angular/ IONIC applications using TypeScript, HTML, and SCSS. <br>
 - Building reusable and scalable components and modules that can be used across multiple projects. <br>
